@@ -15,7 +15,7 @@ switch (true){
      rank = "Prata"
      break
 
-    case ( xp >= 6.001 && xp <= 7.000) :
+    case ( xp >= 5.001 && xp <= 7.000) :
      rank = "Ouro"
      break
 
